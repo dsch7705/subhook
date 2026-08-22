@@ -1,5 +1,5 @@
 project(subhook)
-cmake_minimum_required(VERSION 2.8)
+cmake_minimum_required(VERSION 4.0)
 
 set(SUBHOOK_VERSION_MAJOR 0)
 set(SUBHOOK_VERSION_MINOR 2)
